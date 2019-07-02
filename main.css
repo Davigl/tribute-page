@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+  min-width: 300px;
+  font-family: Lato; 
+  color: #240B36;
+  background: rgba(235, 197, 148, 0.4);
+}
+
+#title {
+  background: linear-gradient(90deg, #E0A458, #FFDBB5);
+  border: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+#sub-title {
+  font-size: 17px;
+}
+
+#img-div {
+  margin-top: 20px;
+  width: 100%;
+}
+
+#image {
+  max-width: 70%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border: 2px;
+  border-radius: 2%;
+}
+
+#tribute-info {
+  margin-top: 15px;
+  padding: 25px 55px 25px 55px;
+  background: rgba(224, 164, 88, 0.8);
+}
+
+#img-caption {
+  margin-top: 15px;
+  text-align: center;
+}
+
+#tribute-link {
+  font-size: 17px;
+}
+
+#div-tribute {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
